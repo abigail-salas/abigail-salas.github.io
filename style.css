@@ -2,3 +2,8 @@ body {
   background-color: black;
   color: aliceblue;
 }
+
+h4 {
+  color: rgb(94, 23, 161);
+  font-family: fantasy;
+}
